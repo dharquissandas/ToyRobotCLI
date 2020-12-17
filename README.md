@@ -18,4 +18,4 @@ A Node.js cli based application that simulates a toy robot moving on a square ta
 5. REPORT
 
 # Testing
-Test the simulator using the command 'npm run test'
+Test the simulator using the command `npm run test`
